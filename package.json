@@ -1,0 +1,25 @@
+{
+  "name": "phsc-messaging-app",
+  "version": "0.1.0",
+  "description": "A decentralized messaging application, created by the students in the PHSC Programming Club.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phsc-programming-club/phsc-messaging-app.git"
+  },
+  "keywords": [
+    "messaging",
+    "app",
+    "PHSC",
+    "decentralized"
+  ],
+  "author": "KevinMech",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/phsc-programming-club/phsc-messaging-app/issues"
+  },
+  "homepage": "https://github.com/phsc-programming-club/phsc-messaging-app#readme"
+}
