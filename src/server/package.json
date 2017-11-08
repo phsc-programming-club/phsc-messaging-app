@@ -1,7 +1,7 @@
 {
-  "name": "phsc-messaging-app",
+  "name": "phsc-messaging-app-server",
   "version": "0.1.0",
-  "description": "A decentralized messaging application, created by the students in the PHSC Programming Club.",
+  "description": "A server used by the phsc-messaging-app, created by the students in the PHSC Programming Club.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,7 +14,8 @@
     "messaging",
     "app",
     "PHSC",
-    "decentralized"
+    "decentralized",
+    "server"
   ],
   "author": "KevinMech",
   "license": "Unlicense",
